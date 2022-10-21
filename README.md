@@ -15,7 +15,8 @@ First one to the top will face the boss. <br>
 Defeat the boss first = <b>WIN</b>
 
 ________________________________________
-AUTHORS:  Petter Saarela & Jim Rehnqvist
+AUTHORS:  Petter Saarela (https://github.com/psaar) & Jim Rehnqvist (https://github.com/Jay-E-Raynor)
+
 
 THANKS:   NOD Bootcamp#4 2022
 
