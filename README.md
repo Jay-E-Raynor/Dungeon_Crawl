@@ -3,7 +3,8 @@
 ### Nod BC#4 2022
 We created a simple dungeon crawler as a python project.
 #### The rules are very simple:
-Two players, first one to the top wins.
+First one to the top wins.
+Choose number of players 1-4.
 Choose game length (currently three options, first to lvl 3, first to lvl 6, first to lvl 10. The longer the game, the more you decisions will matter in the end. <br>
 You enter the dungeon, you face a random monster at a random level. <br>
 You make a choice wether to fight or try to run away. <br><br>
